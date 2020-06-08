@@ -1,1 +1,9 @@
 *.json filter=lfs diff=lfs merge=lfs -text
+/Users/qiuzhuang/Desktop/final_project_psc290/data/raw/definitely.json filter=lfs diff=lfs merge=lfs -text
+/Users/qiuzhuang/Desktop/final_project_psc290/data/raw/may.json filter=lfs diff=lfs merge=lfs -text
+/Users/qiuzhuang/Desktop/final_project_psc290/data/raw/might.json filter=lfs diff=lfs merge=lfs -text
+/Users/qiuzhuang/Desktop/final_project_psc290/data/raw/must.json filter=lfs diff=lfs merge=lfs -text
+/Users/qiuzhuang/Desktop/final_project_psc290/data/raw/possibly.json filter=lfs diff=lfs merge=lfs -text
+/Users/qiuzhuang/Desktop/final_project_psc290/data/raw/probably.json filter=lfs diff=lfs merge=lfs -text
+/Users/qiuzhuang/Desktop/final_project_psc290/data/raw/would.json filter=lfs diff=lfs merge=lfs -text
+/Users/qiuzhuang/Desktop/final_project_psc290/data/raw/certainly.json filter=lfs diff=lfs merge=lfs -text
