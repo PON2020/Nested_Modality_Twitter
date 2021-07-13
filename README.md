@@ -1,7 +1,5 @@
-final_project_PSC290
+Nested_Modality_Twitter
 ==============================
-
-This is a project created to fulfill the requirements of class PSC290
 
 In this project, I built twitter databases and searched some linguistic patterns.
 
