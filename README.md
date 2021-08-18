@@ -1,11 +1,11 @@
 Nested_Modality_Twitter
 ==============================
 
-In this project, I built twitter databases and searched some linguistic patterns.
+In this project, I built a twitter database and searched for some linguistic patterns, namely nested epistemic expressions.
 
-The data used in this study were under the 'data-raw' folder.
+The data used in this study was under the 'data-raw' folder.
 
-The code and report were integrated in different notebooks under the 'notebooks' folder.
+The script and report were integrated in different notebooks under the 'notebooks' folder.
 
 
 
